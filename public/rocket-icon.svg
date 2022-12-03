@@ -1,0 +1,19 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect opacity="0.3" y="16" width="48" height="48" rx="10" fill="#C03221"/>
+<g filter="url(#filter0_b_40_264)">
+<rect x="12" y="4" width="48" height="48" rx="10" fill="#C03221"/>
+<rect x="10" y="2" width="52" height="52" rx="12" stroke="white" stroke-opacity="0.3" stroke-width="4"/>
+</g>
+<path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M30.0602 29.7654L26.4382 28.5573C26.1916 28.4754 26.0051 28.2715 25.9453 28.0186C25.8856 27.7657 25.9613 27.4999 26.1452 27.3163L26.3772 27.0843C27.9841 25.4772 30.3611 24.9158 32.5172 25.6344L33.7723 26.0523L30.0602 29.7654Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M34.3003 34.007L35.5083 37.629C35.5902 37.8756 35.7941 38.0622 36.047 38.1219C36.3 38.1816 36.5658 38.106 36.7493 37.922L36.9823 37.6901C38.5892 36.083 39.1501 33.7059 38.4313 31.55L38.0153 30.3L34.3003 34.007Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path opacity="0.4" d="M31.7793 34.5381C31.7801 35.135 31.543 35.7077 31.1203 36.1292C30.2423 37.0071 25.8203 38.2502 25.8203 38.2502C25.8203 38.2502 27.0633 33.8252 27.9413 32.9502C28.327 32.5635 28.8404 32.3307 29.3853 32.2952" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M46.5003 17.5671L44.3423 17.8071C42.6497 17.9953 41.0715 18.7539 39.8673 19.9581L30.0603 29.7651L34.3003 34.0071L44.1093 24.2001C45.314 22.9962 46.0726 21.4179 46.2603 19.7251L46.5003 17.5671Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<defs>
+<filter id="filter0_b_40_264" x="-12" y="-20" width="96" height="96" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImage" stdDeviation="10"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_40_264"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_40_264" result="shape"/>
+</filter>
+</defs>
+</svg>
