@@ -1,4 +1,5 @@
 /* eslint-disable @next/next/no-img-element */
+/* update for pr*/
 import Image from 'next/image';
 import { ReactElement, Suspense } from 'react';
 import { useRecoilValue } from 'recoil';
