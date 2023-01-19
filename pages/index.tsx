@@ -17,6 +17,7 @@ import { homePageState } from '~/recoil/pages';
 import { useLazyLoading } from '~/utils/hooks';
 import { useWeb3 } from '~/utils/web3';
 
+/* Homepage */
 const HomePage = () => {
     const loading = useLazyLoading();
 
